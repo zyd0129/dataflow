@@ -13,6 +13,7 @@
 
     <modules>
         <module>simple-sink</module>
+        <module>simple-quartz</module>
     </modules>
 
     <groupId>com.zyd.learn.stream</groupId>
